@@ -21,3 +21,4 @@
 
 #### CTF Profiles
 - **TryHackMe:** [THM-Profile](https://tryhackme.com/r/p/cyber3not)
+- **HackTheBox** [HTB-Profile](https://app.hackthebox.com/profile/368569)
