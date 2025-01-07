@@ -38,6 +38,8 @@
 - Play [HTB Sherlocks](https://help.hackthebox.com/en/articles/8570249-how-to-play-sherlocks) forensic challenges to explore blue team skills and gain a different learning perspective.
 - Try hacking my first lab, either on HTB Pro Labs, Vulnlab, or by setting up my own AD test environments.
 
+<br>
+
 ### 🚀 Long-term Goals
 - Successfully complete my apprenticeship.
 - Obtain Linux administration certifications, such as LPIC.
