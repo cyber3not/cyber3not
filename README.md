@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm cyber3not! 
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 - Currently pursuing an apprenticeship as an IT Specialist for System Integration in Germany
 
