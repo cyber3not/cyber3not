@@ -1,6 +1,6 @@
-## Hey there 👋, I'm cyber3not! 
+# Hey there 👋, I'm cyber3not! 
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 - Currently pursuing an apprenticeship as an IT Specialist for System Integration in Germany
 
@@ -9,7 +9,7 @@
 <br>
 <br>
 
-### Operating Systems
+## Operating Systems
 
 | Linux          | Debian         | NixOS          | Kali           |
 |-----------------|----------------|----------------|----------------|
@@ -18,15 +18,24 @@
 <br>
 <br>
 
-### 🏆 CTF Competitions
+## 🏆 CTF Competitions
 > CTF challenges have become an important and consistent part of my free time. While I also enjoy picking up a good technical book to learn, nothing has driven me forward in the long term as much as solving these practical hacking challenges. In my opinion, these challenges not only help to understand technology better but also to identify your interests, strengths and weaknesses and work on them in a focused way.
 
-#### CTF Profiles
+### CTF Profiles
 - **TryHackMe:** [THM-Profile](https://tryhackme.com/r/p/cyber3not)
 - **HackTheBox** [HTB-Profile](https://app.hackthebox.com/profile/368569)
 
-#### CTF Writeups
+### CTF Writeups
 - [Explore My Writeups](https://github.com/cyber3not/ctf-writeups)
 
 <br>
 <br>
+
+## Goals
+
+### 🎯 2025 Goals
+
+### 🚀 Long-term Goals
+- Successfully complete my apprenticeship.
+- Obtain Linux administration certifications, such as LPIC.
+- Earn a certification in IT security, such as OSCP, CPTS, or CompTIA Security+.
