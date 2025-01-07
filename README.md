@@ -34,6 +34,7 @@
 ## Goals
 
 ### 🎯 2025 Goals
+- Solve more challenges using custom-written code to improve my programming skills.
 
 ### 🚀 Long-term Goals
 - Successfully complete my apprenticeship.
