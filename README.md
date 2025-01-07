@@ -35,6 +35,7 @@
 
 ### 🎯 2025 Goals
 - Solve more challenges using custom-written code to improve my programming skills.
+- Play [HTB Sherlocks](https://help.hackthebox.com/en/articles/8570249-how-to-play-sherlocks) forensic challenges to explore blue team skills and gain a different learning perspective.
 
 ### 🚀 Long-term Goals
 - Successfully complete my apprenticeship.
